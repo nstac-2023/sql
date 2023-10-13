@@ -1,2 +1,2 @@
-# slq
+# sql
 Repo for managing database
